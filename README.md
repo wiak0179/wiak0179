@@ -38,7 +38,7 @@
 ## 🤝 Let’s Connect
 - 💌 Email: wcakers3@gmail.com  
 - 💻 GitHub: [wiak0179](https://github.com/wiak0179)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) *(Add your link!)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE) 
 
 ---
 
