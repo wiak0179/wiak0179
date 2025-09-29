@@ -24,7 +24,7 @@
 
 ## 📌 Featured Projects
 
-- **🎮 [Akers_final_project](https://github.com/wiak0179/Akers_final_project)**  
+- **🎮 [AI LunarLander](https://github.com/wiak0179/Akers_final_project)**  
   Trained an AI agent to beat the Lunar Lander environment using reinforcement learning in OpenAI Gymnasium.
 
 - **⚔️ [DungeonEscape](https://github.com/wiak0179/DungeonEscape)**  
