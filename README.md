@@ -27,6 +27,12 @@
 - **🎮 [Akers_final_project](https://github.com/wiak0179/Akers_final_project)**  
   Trained an AI agent to beat the Lunar Lander environment using reinforcement learning in OpenAI Gymnasium.
 
+- **⚔️ [DungeonEscape](https://github.com/wiak0179/DE_GAME)**  
+  A text-based dungeon crawler game with combat, loot, merchants, and riddles.  
+  Originally built for a CSCI 1300 project, now preserved as a binary demo with screenshots and a [YouTube gameplay video](https://youtu.be/Wcc1idMOPzo).
+
+- **🧪 [Akers_Kaggle](https://github.com/wiak0179/Akers_Kaggle)**  
+
 - 🛒 [Group Agile Project](https://github.com/SoftwareGroup5/Project-/tree/main/app)
 
   A full-stack e-commerce web app for browsing, selecting, and purchasing countertops. Built collaboratively in an agile development cycle with a focus on      Flask, SQLite, and dynamic HTML/CSS. I contributed heavily to the Products page, cart functionality, and database integration.
