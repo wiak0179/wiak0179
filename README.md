@@ -27,7 +27,7 @@
 - **🎮 [Akers_final_project](https://github.com/wiak0179/Akers_final_project)**  
   Trained an AI agent to beat the Lunar Lander environment using reinforcement learning in OpenAI Gymnasium.
 
-- **⚔️ [DungeonEscape](https://github.com/wiak0179/DE_GAME)**  
+- **⚔️ [DungeonEscape](https://github.com/wiak0179/DungeonEscape)**  
   A text-based dungeon crawler game with combat, loot, merchants, and riddles.  
   Originally built for a CSCI 1300 project, now preserved as a binary demo with screenshots and a [YouTube gameplay video](https://youtu.be/Wcc1idMOPzo).
 
