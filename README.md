@@ -31,7 +31,6 @@
   A text-based dungeon crawler game with combat, loot, merchants, and riddles.  
   Originally built for a CSCI 1300 project, now preserved as a binary demo with screenshots and a [YouTube gameplay video](https://youtu.be/Wcc1idMOPzo).
 
-- **🧪 [Akers_Kaggle](https://github.com/wiak0179/Akers_Kaggle)**  
 
 - 🛒 [Group Agile Project](https://github.com/SoftwareGroup5/Project-/tree/main/app)
 
