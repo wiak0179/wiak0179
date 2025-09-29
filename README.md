@@ -27,9 +27,10 @@
 - **🎮 [Akers_final_project](https://github.com/wiak0179/Akers_final_project)**  
   Trained an AI agent to beat the Lunar Lander environment using reinforcement learning in OpenAI Gymnasium.
 
-- **🛒 Countertop Store
+- 🛒 [Group Agile Project](https://github.com/SoftwareGroup5/Project-/tree/main/app)
 
-A full-stack e-commerce web app for browsing, selecting, and purchasing countertops. Built collaboratively in an agile development cycle with a focus on Flask, SQLite, and dynamic HTML/CSS. I contributed heavily to the Products page, cart functionality, and database integration.
+  A full-stack e-commerce web app for browsing, selecting, and purchasing countertops. Built collaboratively in an agile development cycle with a focus on      Flask, SQLite, and dynamic HTML/CSS. I contributed heavily to the Products page, cart functionality, and database integration.
+  [Acess App on Render Here](https://countertops.onrender.com) 
 
 - **🧪 [Akers_Kaggle](https://github.com/wiak0179/Akers_Kaggle)**  
   Used machine learning for cancer detection using real patient scan data (Kaggle challenge).
