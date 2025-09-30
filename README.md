@@ -2,7 +2,7 @@
 
 🎓 I’m have a degree in **Applied Computer Science** at CU Boulder, an additional bachelor's in **classics**, and just finished my master's in **Computer Science** at CU. My passion lies in creating things — whether that’s training AI models, building web apps, or scripting text-based games.
 
-🕹️ I enjoy applying my technical skills to creative or real-world problems, In my spare time, I enjoy **gaming**, **music**, and **board sports**,.
+🕹️ I enjoy applying my technical skills to creative or real-world problems. I spend my spare time **gaming**, playing **music** (guitar and piano), and **board sports**,.
 
 ---
 
