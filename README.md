@@ -6,7 +6,7 @@
 
 ---
 
-## 💼 I'm currently looking for:
+## 💼 I am currently looking for:
 - **Software engineering internships**
 - **Front-end developer roles**
 - **Entry-level positions in web dev or machine learning**
