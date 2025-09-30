@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cole Akers
 
-🎓 I’m have a degree in **Applied Computer Science** at CU Boulder, an additional bachelors in **classics**, and just finished my masters in **Computer Science** at CU as well. My passion lies in creating things — whether that’s building web apps, training AI models, or scripting text-based games.
+🎓 I’m have a degree in **Applied Computer Science** at CU Boulder, an additional bachelors in **classics**, and just finished my masters in **Computer Science** at CU. My passion lies in creating things — whether that’s building web apps, training AI models, or scripting text-based games.
 
 🕹️ I love **gaming**, **music**, and **board sports**, and I enjoy applying my technical skills to creative or real-world problems.
 
