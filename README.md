@@ -1,4 +1,4 @@
-# 👋 Hi, my name is Cole Akers, nice to meet you!
+# 👋 Hi, my name is Cole Akers. Nice to meet you!
 
 🎓 I’m have a degree in **Applied Computer Science** at CU Boulder, an additional bachelor's in **classics**, and just finished my master's in **Computer Science** at CU. My passion lies in creating things — whether that’s training AI models, building web apps, or scripting text-based games.
 
