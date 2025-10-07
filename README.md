@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages**: Python, JavaScript, C++, SQL  
+- **Languages**: Python, JavaScript, C++, C#, SQL  
 - **Web Dev**: Flask, HTML/CSS, React (beginner)  
 - **Data & AI**: Pandas, scikit-learn, OpenAI Gym  
 - **Tools**: Git/GitHub, VS Code, Jupyter, Linux, Figma
